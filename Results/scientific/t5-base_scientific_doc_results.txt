@@ -1,0 +1,80 @@
+Q1: Who was the first person to walk on the Moon?
+Answer: Neil Armstrong
+Time spent: 2.12 seconds 
+
+Q2: Which spacecraft was Yuri Gagarin aboard during his journey into space?
+Answer: Vostok 1
+Time spent: 2.32 seconds 
+
+Q3: What year did Sputnik 1 launch?
+Answer: 1957
+Time spent: 2.05 seconds 
+
+Q4: Which private company is leading efforts to reduce the cost of space travel?
+Answer: SpaceX
+Time spent: 1.82 seconds 
+
+Q5: What happened in space exploration in the 1970s?
+Answer: development of space stations
+Time spent: 1.91 seconds 
+
+Q6: What are the key achievements of the Soviet Union in space exploration?
+Answer: launched the world's first space station, Salyut 1, in 1971
+Time spent: 2.87 seconds 
+
+Q7: What happened first?
+Answer: launch of the first artificial satellite, Sputnik 1, by the Soviet Union
+Time spent: 2.60 seconds 
+
+Q8: What is the most important discovery?
+Answer: Yuri Gagarin became the first human to journey into outer space aboard the Vostok 1 spacecraft
+Time spent: 3.15 seconds 
+
+Q9: What is the future of space?
+Answer: missions to asteroids, Mars, and beyond, with the goal of establishing permanent human settlements in space
+Time spent: 3.10 seconds 
+
+Q10: Tell me about the first human.
+Answer: Yuri Gagarin
+Time spent: 2.13 seconds 
+
+Q11: Who discovered gravity?
+Answer: Yuri Gagarin
+Time spent: 2.02 seconds 
+
+Q12: What is the capital of France?
+Answer: Paris
+Time spent: 1.75 seconds 
+
+Q13: Compare the achievements of the United States and the Soviet Union in space exploration.
+Answer: The Soviets launched the world's first space station, Salyut 1, in 1971, while the United States developed the Skylab program
+Time spent: 3.64 seconds 
+
+Q14: How did private companies change space exploration in the 21st century?
+Answer: reduce the cost of space travel and make it accessible to more people
+Time spent: 2.82 seconds 
+
+Q15: What were the key technological advancements of the Space Shuttle program?
+Answer: enabled reusable spacecraft to conduct missions in low Earth orbit
+Time spent: 2.76 seconds 
+
+Q16: Which country first landed humans on Mars?
+Answer: Soviet Union
+Time spent: 2.10 seconds 
+
+Q17: Who was the first human to walk on Venus?
+Answer: Neil Armstrong
+Time spent: 2.27 seconds 
+
+Q18: Did NASA develop the first space station?
+Answer: The Soviets launched the world's first space station, Salyut 1, in 1971
+Time spent: 3.68 seconds 
+
+Q19: Will humans live on Mars by 2030?
+Answer: permanent human settlements in space
+Time spent: 2.47 seconds 
+
+Q20: What will space exploration look like in 100 years?
+Answer: missions to asteroids, Mars, and beyond, with the goal of establishing permanent human settlements in space
+Time spent: 3.77 seconds 
+

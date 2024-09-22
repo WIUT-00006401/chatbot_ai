@@ -1,0 +1,80 @@
+Q1: What are the origins of financial markets?
+Answer: ancient civilizations
+Time spent: 26.31 seconds 
+
+Q2: Which company is considered the world’s first publicly traded company?
+Answer: Dutch East India Company
+Time spent: 16.64 seconds 
+
+Q3: How did central banks respond to the 2008 financial crisis?
+Answer: quantitative easing
+Time spent: 15.86 seconds 
+
+Q4: What was the main cause of the 2008 financial crisis?
+Answer: collapse of the U.S. housing market
+Time spent: 16.15 seconds 
+
+Q5: What are the benefits and risks of high-frequency trading (HFT)?
+Answer: improve market efficiency by providing liquidity and reducing transaction costs
+Time spent: 16.22 seconds 
+
+Q6: What was the 'Flash Crash' of 2010?
+Answer: Dow Jones Industrial Average plunged nearly 1,000 points in a matter of minutes, only to recover shortly thereafter
+Time spent: 18.23 seconds 
+
+Q7: What is decentralized finance (DeFi), and how does it differ from traditional finance?
+Answer: a system of financial products and services that operate on blockchain networks
+Time spent: 16.33 seconds 
+
+Q8: What role do cryptocurrencies like Bitcoin play in financial markets?
+Answer: disruptive forces
+Time spent: 15.03 seconds 
+
+Q9: How is risk managed in financial markets?
+Answer: diversification, hedging, and the use of financial instruments such as options and futures contracts
+Time spent: 17.20 seconds 
+
+Q10: What was the impact of the 2008 financial crisis on global financial markets?
+Answer: a global recession
+Time spent: 15.70 seconds 
+
+Q11: What was one of the first forms of currency used in Mesopotamia?
+Answer: barley
+Time spent: 15.33 seconds 
+
+Q12: Which company is often cited as the world’s first publicly traded company?
+Answer: Dutch East India Company
+Time spent: 15.22 seconds 
+
+Q13: What event triggered the 2008 financial crisis?
+Answer: collapse of the U.S. housing market
+Time spent: 15.93 seconds 
+
+Q14: What is algorithmic trading?
+Answer: use of computer algorithms to automatically execute trades based on predefined criteria, such as price movements or market conditions
+Time spent: 17.65 seconds 
+
+Q15: What was the role of central banks during the 2008 financial crisis?
+Answer: lenders of last resort
+Time spent: 16.08 seconds 
+
+Q16: What is decentralized finance (DeFi)?
+Answer: a system of financial products and services that operate on blockchain networks
+Time spent: 16.27 seconds 
+
+Q17: What was the significance of the 'Flash Crash' in 2010?
+Answer: Dow Jones Industrial Average plunged nearly 1,000 points in a matter of minutes, only to recover shortly thereafter
+Time spent: 16.79 seconds 
+
+Q18: How did the Basel III framework impact financial institutions?
+Answer: strengthen bank capital requirements, improve risk management practices, and enhance transparency
+Time spent: 16.66 seconds 
+
+Q19: What are the effects of globalization on financial markets?
+Answer: increased the interdependence of financial markets
+Time spent: 16.13 seconds 
+
+Q20: How have technological advancements impacted financial markets?
+Answer: the rise of algorithmic trading and high-frequency trading
+Time spent: 16.37 seconds 
+

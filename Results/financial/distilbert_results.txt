@@ -1,0 +1,80 @@
+Q1: What are the origins of financial markets?
+Answer: ancient civilizations
+Time Spent: 7.81 seconds
+
+Q2: Which company is considered the world’s first publicly traded company?
+Answer: The Dutch East India Company
+Time Spent: 4.93 seconds
+
+Q3: How did central banks respond to the 2008 financial crisis?
+Answer: effective risk management
+Time Spent: 4.91 seconds
+
+Q4: What was the main cause of the 2008 financial crisis?
+Answer: effective risk management
+Time Spent: 4.87 seconds
+
+Q5: What are the benefits and risks of high-frequency trading (HFT)?
+Answer: excessive leverage, complex derivatives, and insufficient regulation
+Time Spent: 5.00 seconds
+
+Q6: What was the 'Flash Crash' of 2010?
+Answer: highlighted the potential dangers of HFT
+Time Spent: 4.95 seconds
+
+Q7: What is decentralized finance (DeFi), and how does it differ from traditional finance?
+Answer: algorithmic trading
+Time Spent: 5.22 seconds
+
+Q8: What role do cryptocurrencies like Bitcoin play in financial markets?
+Answer: disruptive forces
+Time Spent: 5.30 seconds
+
+Q9: How is risk managed in financial markets?
+Answer: through diversification, hedging, and the use of financial instruments
+Time Spent: 5.36 seconds
+
+Q10: What was the impact of the 2008 financial crisis on global financial markets?
+Answer: The 2008 financial crisis underscored the importance of effective risk management
+Time Spent: 3.90 seconds
+
+Q11: What was one of the first forms of currency used in Mesopotamia?
+Answer: barley
+Time Spent: 3.87 seconds
+
+Q12: Which company is often cited as the world’s first publicly traded company?
+Answer: The Dutch East India Company
+Time Spent: 4.38 seconds
+
+Q13: What event triggered the 2008 financial crisis?
+Answer: global recession
+Time Spent: 4.32 seconds
+
+Q14: What is algorithmic trading?
+Answer: decentralized finance
+Time Spent: 4.26 seconds
+
+Q15: What was the role of central banks during the 2008 financial crisis?
+Answer: effective risk management
+Time Spent: 4.28 seconds
+
+Q16: What is decentralized finance (DeFi)?
+Answer: algorithmic trading
+Time Spent: 3.67 seconds
+
+Q17: What was the significance of the 'Flash Crash' in 2010?
+Answer: highlighted the potential dangers of HFT
+Time Spent: 3.74 seconds
+
+Q18: How did the Basel III framework impact financial institutions?
+Answer: to strengthen bank capital requirements, improve risk management practices, and enhance transparency
+Time Spent: 6.14 seconds
+
+Q19: What are the effects of globalization on financial markets?
+Answer: increased the interdependence
+Time Spent: 3.77 seconds
+
+Q20: How have technological advancements impacted financial markets?
+Answer: critical to ensuring the stability and resilience of global financial markets
+Time Spent: 5.81 seconds
+

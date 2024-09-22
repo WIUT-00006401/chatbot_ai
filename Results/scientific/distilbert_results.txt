@@ -1,0 +1,80 @@
+Q1: Who was the first person to walk on the Moon?
+Answer: Yuri Gagarin
+Time Spent: 0.47 seconds
+
+Q2: Which spacecraft was Yuri Gagarin aboard during his journey into space?
+Answer: Sputnik 1
+Time Spent: 0.40 seconds
+
+Q3: What year did Sputnik 1 launch?
+Answer: Yuri Gagarin
+Time Spent: 0.38 seconds
+
+Q4: Which private company is leading efforts to reduce the cost of space travel?
+Answer: Sputnik 1
+Time Spent: 0.38 seconds
+
+Q5: What happened in space exploration in the 1970s?
+Answer: Soviet Union
+Time Spent: 0.36 seconds
+
+Q6: What are the key achievements of the Soviet Union in space exploration?
+Answer: United States
+Time Spent: 0.36 seconds
+
+Q7: What happened first?
+Answer: Yuri Gagarin
+Time Spent: 0.35 seconds
+
+Q8: What is the most important discovery?
+Answer: gravity
+Time Spent: 0.33 seconds
+
+Q9: What is the future of space?
+Answer: gravity
+Time Spent: 0.34 seconds
+
+Q10: Tell me about the first human.
+Answer: gravity
+Time Spent: 0.33 seconds
+
+Q11: Who discovered gravity?
+Answer: Yuri Gagarin
+Time Spent: 0.33 seconds
+
+Q12: What is the capital of France?
+Answer: gravity
+Time Spent: 0.36 seconds
+
+Q13: Compare the achievements of the United States and the Soviet Union in space exploration.
+Answer: Yuri Gagarin
+Time Spent: 0.36 seconds
+
+Q14: How did private companies change space exploration in the 21st century?
+Answer: Yuri Gagarin
+Time Spent: 0.38 seconds
+
+Q15: What were the key technological advancements of the Space Shuttle program?
+Answer: Which country first landed humans on Mars
+Time Spent: 0.35 seconds
+
+Q16: Which country first landed humans on Mars?
+Answer: 2030
+Time Spent: 0.37 seconds
+
+Q17: Who was the first human to walk on Venus?
+Answer: Yuri Gagarin
+Time Spent: 0.35 seconds
+
+Q18: Did NASA develop the first space station?
+Answer: 2030
+Time Spent: 0.35 seconds
+
+Q19: Will humans live on Mars by 2030?
+Answer: NASA
+Time Spent: 0.32 seconds
+
+Q20: What will space exploration look like in 100 years?
+Answer: Will humans live on Mars
+Time Spent: 0.35 seconds
+
