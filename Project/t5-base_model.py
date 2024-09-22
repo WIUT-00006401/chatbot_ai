@@ -32,7 +32,7 @@ def main():
     with st.sidebar:
         st.markdown("***")
         st.markdown("This project is created as a part of the Thesis of Masters of Engineering in Computer Science at GISMA University of Applied Sciences")
-        st.markdown("🚀 Github Link: [New Repository](#)")
+        st.markdown("🚀 Github Link: https://github.com/WIUT-00006401/chatbot_ai")
         st.markdown("Student: Durdona Juraeva")
         st.markdown("Supervisor: Dr Mehran Monavari")
         st.markdown("***")
